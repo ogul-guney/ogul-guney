@@ -1,3 +1,4 @@
 Oğul Güney
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+## Skills
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,python,cpp" />
